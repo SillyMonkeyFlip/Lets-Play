@@ -1,0 +1,16 @@
+{
+"companyName": "SillyMonkeyFlip",
+"productName": "Lets Play!",
+"productVersion": "1.4.3",
+"dataUrl": "Lets-Play.data.unityweb",
+"wasmCodeUrl": "Lets-Play.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lets-Play.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
