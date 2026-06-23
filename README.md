@@ -8,7 +8,6 @@ Uhh i got bored and i saw a funny tiktok video so i made it a slop mod :p
 -
 [WebGL Build]()
 -
--
 
 # Information
 - This game was legit made under a hour, I made it on a call with my friends :p
